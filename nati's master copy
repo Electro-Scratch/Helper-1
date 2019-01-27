@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Diettips</title>
+  <link rel="stylesheet" media="screen and (min-width:500px" type="text/css" href="file:///C:/Users/Sandcostem/Downloads/Code/index.html 
+   " />
+  <link rel="stylesheet" media="screen and (min-width:500px" type="text/css" href="final code.css" />
+</head>
+</body>
+<!--welcome-->
+</body>
+<p <h1 class="centered"></p>
+  </h1>
+  <h1 style="text-align:left" style="color: white"> The not so healthy American diet </h1>
+  <h4 style="text-align:left" style="color:black"> 1. You don't have to eat less in order to lose weight. You just have
+    to eat in a smarter way.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 2.Sugar is actually more addicting than drugs.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 3.Heart diseases are more likely to come from sugar than salt.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 4.Sugar is a main contributor to obesity now more than ever.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 5.By counting your calories it doesn't mean your eating healthier.
+    It depends what kind of calories your consuming.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 6.The american diet lacks portion control. For example many other
+    countries stress portion control.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 7.Just because you eat a salad doesn't always mean it is healthy. If
+    you put to much dressing you take away from the healthy aspect.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 8.Americans have consumed over three times more than Americans in
+    1970’s.
+  </h4>
+  <h4 style="text-align:left" style="color:black"> 9.American fat consumption has spiked. In the year 2000 the usda
+    released information that showed the production of fats spiked dramatically. </h4>
+  <h4 style="text-align:left" style="color:black"> 10. The american dessert is seen as ice cream sundaes, cakes, and
+    chocolate bars that is not good! The typical asian diet is fruits such as oranges, peaches and mangos.
+  </h4>
+</p>
+
+<a href="#">file:///C:/Users/Sandcostem/Downloads/Code/index.html </a>
+<a href="#">link</a>
+
+<table style="width:100%">
+  <tr>
+
+    <th> Country</th>
+    <th> Breakfest foods</th>
+    <th> Drink</th>
+
+  </tr>
+  <tr>
+
+    <td> Japan</td>
+    <td> Gohan, Grilled fish, Miso soup </td>
+    <td> Tea</td>
+
+  </tr>
+  <tr>
+
+    <td> France</td>
+    <td> Baguette, Jam, Croissant</td>
+    <td> Tea, Cofee, Grapefruit juice</td>
+
+  </tr>
+  <tr>
+    <td>Mexico</td>
+<td> Corn, Lentils, Tomatoe </td>
+<td> Tea and Cofee </td>
+
+  </tr>
+  <tr>
+
+    <td> Germany</td>
+    <td> Bread rolls, Marmalade, Hams</td>
+    <td> Coffee, Tea, Hot chocolate</td>
+
+  </tr>
+  <tr>
+
+    <td> The United States</td>
+    <td> Toastable pastries, Breakfestbars, Yogurt</td>
+    <td> Coffee and Tea </td>
+
+  </tr>
+  <tr>
+
+    <td> The United Kingdom</td>
+    <td> Eggs, Tomatoes, Black beans</td>
+    <td> Tea</td>
+
+  </tr>
+</table>
+
+
+<p style="background-color:lightskyblue;"> -Visuals that include pictures- ></video></p>
+
+<img src="Helper-2.jpg" id="image2">
+<img src="Helper-5.jpg" alt="image3">
+<img src="Helper-7.jpg" alt="image4">
+<img src="Helper-4.jpg" alt="image5">
+<img src="Helper-1.jpg" alt="image6">
+<img src="Helper-3.jpg" alt="image7">
+
+
+
+
+
+                                 DOWN BELOW IS THE CSS
+                                 
+                                 *{color: aliceblue}
+*{background-color: grey}
+*{background-blend-mode: darken}
+
+h1 {
+    width: 500px;
+    border: 10px   solid  lightpink;
+    padding: 10px;
+    margin: 25px;
+  }
+
+
+  table {
+    width: 100px;
+  }
+  
+  th {
+    height: 60px;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 2px solid navajowhite;
+  
+  }
+
+  p{
+    text-align: center;
+     length: 25%;
+
+
+
+  }
