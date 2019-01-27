@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html>
+
+
+
+<head>
+
+
+
+        <title>diettips</title>
+
+
+
+<link rel="stylesheet" media="screen and (min-width:500px)" type="text/css" href="index.css"/>
+
+
+
+<link rel="stylesheet" media="screen and (max-width:499px)" type="text/css" herf="mobile.css"/>
+
+
+
+<!--this should be the opening to the website --> 
+
+
+
+<h3 class="centered"></h3>
+
+
+
+
+
+<!--here should be added bascic info on problems that dibates can cause and how diets can help-->
+
+
+
+<p class="centered1"></p>
+
+
+
+
+
+
+
+<!--this should be a pictuer of diet pictures and or people who are over or under weight copy and paste if you need to add more images-->
+
+
+
+<img src="placeholder" id="image90"/><br>
+
+
+
+<img src="placeholder" id="image90"/><br>
+
+
+
+<img src="placeholder" id="image90"/><br>
+
+
+
+<img src="placeholder" id="image90"/><br>
+
+
+
+
+
+
+
+<p class="centered">here you can find more information on diets</p>
+
+
+
+
+
+
+
+<!--this is a place for a link so just add the link here-->
+
+
+
+<a href="https://healthyeating.sfgate.com/consequences-not-eating-healthy-5078.html">Consequences of not having a healthy diet</a> 
+
+
+
+<a href="http://www.eatingwell.com/article/8759/heart-healthy-diet-guidelines/">guidlines for a healthy heart and diet</a> 
+
+
+
+
+
+
+<div class="navbar">
+
+        <a href="#">10 facts about the American diet</a>
+
+        <a href="#">Link</a>
+
+        <a href="#">Link</a>
+
+        <a href="#" class="right">Link</a>
+
+      </div> 
+
+<html>
+
+
+
+
+
+
+
+<!---
+
+</head>
+
+<body>
+
+<p style="color:blue">Paragraph</p> </p>
+
+<h1>Largest</h1>
+
+<h2>Large</h2>
+
+<h3>Medium</h3>
+
+<h4>average</h4>
+
+<h5>small</h5>
+
+<h6>smallest</h6>
+
+<h1>it's a beautiful day out side the birds are chirping the flowers are bloming on days like this kids like you... well you know</h1>
+
+<img src= "sans.png" id="image3"/><br>
+
+<img src="sans.png"/><br>
+
+
+
+<img src="mudkipz.jpg"/><br>
+
+<img src= "mudkipz" id="image1"/><br>
+
+
+
+<iframe src="https://www.w3schools.com"></iframe><br>
+
+
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/YbJOTdZBX1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+<iframe id="youtube1" width="1280" height="720" src="https://www.youtube.com/embed/bGlEfqcpuBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+<form>
+
+    <input type="text" name="firstname" placeholder="your First Name">
+
+    <input type="text" name="lastname" placeholder="your Last Name">
+
+    <input type="email" name="email" placeholder="your email">
+
+    <input type="date" name="date"><br>
+
+    <input type="file" name="resuma"><br>
+
+    <input type="submit" value="send">
+
+</form>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+<img src="australiaisnotreal.jpg" id="image3"/>
+
+
+
+<div id="container1" class="centered">
+
+    <p></p> hello this is my website </p>
+
+</div>
+
+
+
+
+
+<div id="container2">
+
+
+
+</div>
+
+
+
+<div id="container3">
+
+    
+
+</div>
+
+
+
+<div id="container4">
+
+    
+
+    </div>
+
+-->
